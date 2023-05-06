@@ -112,6 +112,29 @@ export const AboutMe: FC = () => {
               <br />
               ・DJ
             </Text>
+            <Text
+              fontSize={{ base: "16px", lg: "20px" }}
+              textAlign={"center"}
+              marginTop={"10px"}
+            >
+              ○勉強している言語
+            </Text>
+            <Text
+              display={"block"}
+              fontSize={{ base: "16px", lg: "20px" }}
+              textAlign={"left"}
+              margin={"0 auto"}
+              maxWidth={"260px"}
+              paddingLeft={{ base: "none", lg: "30px" }}
+            >
+              ・HTML
+              <br />
+              ・CSS
+              <br />
+              ・JavaScript
+              <br />
+              ・TypeScript
+            </Text>
           </Box>
         </Box>
       </Box>
