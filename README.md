@@ -1,3 +1,39 @@
+# Reactを使用して作成したプロフィールサイト
+
+初めてReactを使用して作成したWebサイト(アプリ)です。
+UdemyのReactの動画講座で学んだ技術の一部を駆使して作りました。
+動画内で取り扱ったReactのバージョンがv17で最新のv18で記述しようとすると
+うまくいかない部分が多々ありましたがなんとかググって作ることが完成させることができました。
+SPAらしくページ遷移アニメーションにスライドやフェードインスムーズを取り入れて
+シンプルではありますが、それらしくできたかとは思います。
+
+#　感想と反省点
+
+完成させて改めて感じたことはまだまだReactである利点を活かせてないことです。
+「単なるSPAが作りたいなら、今回作ったWEBサイト程度ならjQueryでもできたのでは？」
+という事を実感したのと、jQueryは終わった論がSNSでしばし囁かれますが、簡単な動きをつけたいなら
+jQueryはまだまだ有用であり、優秀という事を思い知りました。
+また、JavaScriptではなくTypeScriptで記述しましたが、これもまだまだ使いこなせているとは言えず
+自分自身でも理解がまだまだ不十分であると実感しているので、改めて
+
+*JavaScriptに対する理解*
+*コピペだけではなく、自分自身でJavaScriptを記述する能力*
+
+この二点が今の自分に足りないてないということが今回のReactでプロフィールサイトの作成を通して
+得られた反省点と課題です。
+
+今後のWEBサイト作りにおいては何か動きをつけたい際は、何も考えずにネット上のJavaScriptのコードを
+コピペするだけでなく、自分自身でコードを記述できるように努力したいと思います。
+
+# 使用したエディタ、JSライブラリ、など
+エディタ:VS Code
+JSライブラリ:React
+CSSフレームワーク:Chakra UI
+
+#　参考にした動画（講座）
+・モダンJavaScriptの基礎から始める挫折しないためのReact入門(https://www.udemy.com/course/modern_javascipt_react_beginner/)
+・Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版(https://www.udemy.com/course/react_stepup/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
