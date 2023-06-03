@@ -30,9 +30,10 @@ jQueryはまだまだ有用であり、優秀という事を思い知りまし�
 JSライブラリ:React
 CSSフレームワーク:Chakra UI
 
-#　 参考にした動画（講座）
+# 参考にした動画（講座）
 ・モダンJavaScriptの基礎から始める挫折しないためのReact入門(https://www.udemy.com/course/modern_javascipt_react_beginner/)
 ・Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版(https://www.udemy.com/course/react_stepup/)
+・最速で学ぶTypeScript(https://www.udemy.com/course/typescript-react-frontend/)
 
 # Getting Started with Create React App
 
