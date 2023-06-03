@@ -7,7 +7,7 @@ UdemyのReactの動画講座で学んだ技術の一部を駆使して作りま�
 SPAらしくページ遷移アニメーションにスライドやフェードインスムーズを取り入れて
 シンプルではありますが、それらしくできたかとは思います。
 
-#　感想と反省点
+# 感想と反省点
 
 完成させて改めて感じたことはまだまだReactである利点を活かせてないことです。
 「単なるSPAが作りたいなら、今回作ったWEBサイト程度ならjQueryでもできたのでは？」
@@ -30,7 +30,7 @@ jQueryはまだまだ有用であり、優秀という事を思い知りまし�
 JSライブラリ:React
 CSSフレームワーク:Chakra UI
 
-#　参考にした動画（講座）
+#　 参考にした動画（講座）
 ・モダンJavaScriptの基礎から始める挫折しないためのReact入門(https://www.udemy.com/course/modern_javascipt_react_beginner/)
 ・Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版(https://www.udemy.com/course/react_stepup/)
 
